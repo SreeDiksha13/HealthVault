@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Arjun Sharma",
+    "email": "doctor1@hospital.com",
+    "phone": "8211755002",
+    "specialization": "Orthopedic",
+    "address": "12 MG Road, Lucknow, Tamil Nadu, 226001",
+    "bloodGroup": "O+",
+    "appointments": [
+      {
+        "patient": "Neha Chopra",
+        "patientName": "Neha Chopra",
+        "appointmentDate": "2025-10-24T09:20:41.107232",
+        "appointmentTime": "17:00",
+        "notes": "Follow-up for lab results"
+      },
+      {
+        "patient": "Kavya Verma",
+        "patientName": "Kavya Verma",
+        "appointmentDate": "2025-11-03T09:20:41.107293",
+        "appointmentTime": "10:00",
+        "notes": "Follow-up for medication"
+      }
+    ],
+    "currentAccessToPatients": [
+      "Neha Chopra",
+      "Kavya Verma"
+    ],
+    "usertype": "doctor"
+  },
+  {
+    "name": "Diya Bose",
+    "email": "doctor2@hospital.com",
+    "phone": "8808631930",
+    "specialization": "Cardiologist",
+    "address": "Block C, Green Park, Hyderabad, Gujarat, 700001",
+    "bloodGroup": "A+",
+    "appointments": [
+      {
+        "patient": "Riya Iyer",
+        "patientName": "Riya Iyer",
+        "appointmentDate": "2025-10-25T09:20:41.107486",
+        "appointmentTime": "10:30",
+        "notes": "Follow-up for medication"
+      },
+      {
+        "patient": "Ishaan Mehta",
+        "patientName": "Ishaan Mehta",
+        "appointmentDate": "2025-11-01T09:20:41.107578",
+        "appointmentTime": "16:00",
+        "notes": "Follow-up for lab results"
+      }
+    ],
+    "currentAccessToPatients": [
+      "Riya Iyer",
+      "Ishaan Mehta"
+    ],
+    "usertype": "doctor"
+  },
+  {
+    "name": "Karan Iyer",
+    "email": "doctor3@hospital.com",
+    "phone": "6935868570",
+    "specialization": "Dermatologist",
+    "address": "7 Gandhi Marg, Delhi, Tamil Nadu, 110001",
+    "bloodGroup": "O+",
+    "appointments": [
+      {
+        "patient": "Sai Verma",
+        "patientName": "Sai Verma",
+        "appointmentDate": "2025-10-06T09:20:41.107390",
+        "appointmentTime": "12:30",
+        "notes": "Follow-up for medication"
+      },
+      {
+        "patient": "Priya Patel",
+        "patientName": "Priya Patel",
+        "appointmentDate": "2025-10-27T09:20:41.107439",
+        "appointmentTime": "15:30",
+        "notes": "Follow-up for medication"
+      }
+    ],
+    "currentAccessToPatients": [
+      "Sai Verma",
+      "Priya Patel"
+    ],
+    "usertype": "doctor"
+  },
+  {
+    "name": "Priya Bose",
+    "email": "doctor4@hospital.com",
+    "phone": "8136760652",
+    "specialization": "Pediatrician",
+    "address": "14B Church Street, Kolkata, Uttar Pradesh, 600001",
+    "bloodGroup": "AB-",
+    "appointments": [
+      {
+        "patient": "Neha Saxena",
+        "patientName": "Neha Saxena",
+        "appointmentDate": "2025-10-10T09:20:41.107093",
+        "appointmentTime": "16:00",
+        "notes": "Follow-up for medication"
+      },
+      {
+        "patient": "Zoya Saxena",
+        "patientName": "Zoya Saxena",
+        "appointmentDate": "2025-10-20T09:20:41.107166",
+        "appointmentTime": "9:00",
+        "notes": "Follow-up for checkup"
+      },
+      {
+        "patient": "Riya Singh",
+        "patientName": "Riya Singh",
+        "appointmentDate": "2025-10-24T09:20:41.107343",
+        "appointmentTime": "17:00",
+        "notes": "Follow-up for medication"
+      },
+      {
+        "patient": "Reyansh Sharma",
+        "patientName": "Reyansh Sharma",
+        "appointmentDate": "2025-10-28T09:20:41.107636",
+        "appointmentTime": "13:30",
+        "notes": "Follow-up for checkup"
+      }
+    ],
+    "currentAccessToPatients": [
+      "Neha Saxena",
+      "Zoya Saxena",
+      "Riya Singh",
+      "Reyansh Sharma"
+    ],
+    "usertype": "doctor"
+  },
+  {
+    "name": "Vihaan Nair",
+    "email": "doctor5@hospital.com",
+    "phone": "6840957248",
+    "specialization": "General Physician",
+    "address": "Suite 101, Sunrise Towers, Bengaluru, West Bengal, 560001",
+    "bloodGroup": "B-",
+    "appointments": [],
+    "currentAccessToPatients": [],
+    "usertype": "doctor"
+  },
+  {
+    "name": "Reyansh Iyer",
+    "email": "doctor6@hospital.com",
+    "phone": "8745391478",
+    "specialization": "Dermatologist",
+    "address": "Flat 3B, Rose Apartments, Pune, Gujarat, 110001",
+    "bloodGroup": "O+",
+    "appointments": [
+      {
+        "patient": "Tanvi Reddy",
+        "patientName": "Tanvi Reddy",
+        "appointmentDate": "2025-10-26T09:20:41.107531",
+        "appointmentTime": "12:30",
+        "notes": "Follow-up for medication"
+      },
+      {
+        "patient": "Kabir Saxena",
+        "patientName": "Kabir Saxena",
+        "appointmentDate": "2025-10-19T09:20:41.107679",
+        "appointmentTime": "11:30",
+        "notes": "Follow-up for lab results"
+      }
+    ],
+    "currentAccessToPatients": [
+      "Tanvi Reddy",
+      "Kabir Saxena"
+    ],
+    "usertype": "doctor"
+  }
+]

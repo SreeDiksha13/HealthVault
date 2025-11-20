@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@healthmail.com",
+    "phone": "9800000000",
+    "specialization": "Cardiologist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "813402719045"
+  },
+  {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@healthmail.com",
+    "phone": "9800000001",
+    "specialization": "Dermatologist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "574930216808"
+  },
+  {
+    "name": "Rohit Kumar",
+    "email": "rohit.kumar@healthmail.com",
+    "phone": "9800000002",
+    "specialization": "Pediatrician",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "601478325199"
+  },
+  {
+    "name": "Sana Ansari",
+    "email": "sana.ansari@healthmail.com",
+    "phone": "9800000003",
+    "specialization": "Neurologist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "392857640113"
+  },
+  {
+    "name": "Kavya Reddy",
+    "email": "kavya.reddy@healthmail.com",
+    "phone": "9800000004",
+    "specialization": "Orthopedic",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "748215390426"
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram.singh@healthmail.com",
+    "phone": "9800000005",
+    "specialization": "General Physician",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "460192873554"
+  },
+  {
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta@healthmail.com",
+    "phone": "9800000006",
+    "specialization": "Psychiatrist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "905671243780"
+  },
+  {
+    "name": "Manish Joshi",
+    "email": "manish.joshi@healthmail.com",
+    "phone": "9800000007",
+    "specialization": "ENT Specialist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "667890123457"
+  },
+  {
+    "name": "Ishita Banerjee",
+    "email": "ishita.banerjee@healthmail.com",
+    "phone": "9800000008",
+    "specialization": "Oncologist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "238904176655"
+  },
+  {
+    "name": "Karan Patel",
+    "email": "karan.patel@healthmail.com",
+    "phone": "9800000009",
+    "specialization": "Ophthalmologist",
+    "createdAt": "2025-01-01 10:00:00",
+    "updatedAt": "2025-09-01 10:00:00",
+    "userType": "doctor",
+    "aadhaar_id": "541278903321"
+  }
+]

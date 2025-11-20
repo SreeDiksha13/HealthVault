@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Neha Saxena",
+    "email": "patient1@hospital.com",
+    "phone": "8732107797",
+    "gender": "other",
+    "dateOfBirth": "1969-07-18",
+    "emergencyContact": {
+      "name": "Emergency Contact 1",
+      "relation": "Sibling",
+      "phone": "7175750309"
+    },
+    "bloodGroup": "AB+",
+    "address": "22 Sector 14, Mumbai, Tamil Nadu, 380001",
+    "allergies": ["Pollen", "None"],
+    "bp": "131/86",
+    "currentMedications": ["Paracetamol", "Ibuprofen"],
+    "visitedDoctors": ["Priya Bose"],
+    "reports": [
+      {
+        "fileName": "report_1_1.pdf",
+        "fileUrl": "https://fakeurl.com/reports/report_1_1.pdf",
+        "uploadedAt": "2025-10-05T09:20:41.106983",
+        "doctor": "Priya Bose",
+        "fileType": "lab report",
+        "summary": "Blood test indicates normal cholesterol levels."
+      },
+      {
+        "fileName": "report_1_2.pdf",
+        "fileUrl": "https://fakeurl.com/reports/report_1_2.pdf",
+        "uploadedAt": "2025-10-05T09:20:41.106994",
+        "doctor": "Priya Bose",
+        "fileType": "lab report",
+        "summary": "Routine urine analysis is within normal range."
+      }
+    ],
+    "image": "https://fakeurl.com/images/patient_1.jpg",
+    "currentAccess": ["Priya Bose"],
+    "accessRequests": [
+      {
+        "doctor": "Priya Bose",
+        "status": "approved",
+        "requestedAt": "2025-10-05T09:20:41.107084"
+      }
+    ],
+    "usertype": "patient"
+  },
+  {
+    "name": "Zoya Saxena",
+    "email": "patient2@hospital.com",
+    "phone": "8363842005",
+    "gender": "other",
+    "dateOfBirth": "1979-10-04",
+    "emergencyContact": {
+      "name": "Emergency Contact 2",
+      "relation": "Father",
+      "phone": "6700035245"
+    },
+    "bloodGroup": "O-",
+    "address": "22 Sector 14, Jaipur, Maharashtra, 600001",
+    "allergies": ["Pollen", "None"],
+    "bp": "127/71",
+    "currentMedications": ["Aspirin", "None"],
+    "visitedDoctors": ["Priya Bose"],
+    "reports": [
+      {
+        "fileName": "report_2_1.pdf",
+        "fileUrl": "https://fakeurl.com/reports/report_2_1.pdf",
+        "uploadedAt": "2025-10-05T09:20:41.107125",
+        "doctor": "Priya Bose",
+        "fileType": "prescription",
+        "summary": "Prescribed Aspirin 75mg daily for blood thinning."
+      }
+    ],
+    "image": "https://fakeurl.com/images/patient_2.jpg",
+    "currentAccess": ["Priya Bose"],
+    "accessRequests": [
+      {
+        "doctor": "Priya Bose",
+        "status": "approved",
+        "requestedAt": "2025-10-05T09:20:41.107164"
+      }
+    ],
+    "usertype": "patient"
+  },
+  {
+    "name": "Neha Chopra",
+    "email": "patient3@hospital.com",
+    "phone": "7511480880",
+    "gender": "other",
+    "dateOfBirth": "2008-06-30",
+    "emergencyContact": {
+      "name": "Emergency Contact 3",
+      "relation": "Father",
+      "phone": "6981424039"
+    },
+    "bloodGroup": "AB+",
+    "address": "Suite 101, Sunrise Towers, Kolkata, Maharashtra, 226001",
+    "allergies": ["Seafood", "Dust"],
+    "bp": "112/69",
+    "currentMedications": ["Ibuprofen", "Paracetamol"],
+    "visitedDoctors": ["Arjun Sharma"],
+    "reports": [
+      {
+        "fileName": "report_3_1.pdf",
+        "fileUrl": "https://fakeurl.com/reports/report_3_1.pdf",
+        "uploadedAt": "2025-10-05T09:20:41.107193",
+        "doctor": "Arjun Sharma",
+        "fileType": "prescription",
+        "summary": "Medication prescribed for mild fever and pain relief."
+      }
+    ],
+    "image": "https://fakeurl.com/images/patient_3.jpg",
+    "currentAccess": ["Arjun Sharma"],
+    "accessRequests": [
+      {
+        "doctor": "Arjun Sharma",
+        "status": "approved",
+        "requestedAt": "2025-10-05T09:20:41.107230"
+      }
+    ],
+    "usertype": "patient"
+  }
+]
