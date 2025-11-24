@@ -46,14 +46,15 @@ Follow the steps below to run the project locally:
 ```bash
 git clone https://github.com/YOUR_USERNAME/Health-Vault.git
 cd Health-Vault
+```
 
-
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 
 📌 Install backend dependencies:
-
+```bash 
 cd backend
 npm install
+
 
 📌 Install frontend dependencies:
 
@@ -67,11 +68,11 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
+```
 
-Add any other values if used in your project.
 
-▶️ Run the Application
-
+### ▶️ Run the Application
+```bash
 📌 Start backend:
 
 cd backend
@@ -89,12 +90,8 @@ npm run dev
 Frontend → http://localhost:3000/
 
 Backend → http://localhost:5000/
+```
 
-🖼️ Screenshots
-
-(Add UI screenshots in this section later!)
-
-![Dashboard](./assets/dashboard.png)
 
 🔮 Future Enhancements
 
