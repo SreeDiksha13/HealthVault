@@ -1,0 +1,13 @@
+@keyframes marquee {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: -100%;
+  }
+}
+.animate-marquee {
+  position: absolute;
+  left: 100%;
+  animation: marquee 12s linear infinite;
+}

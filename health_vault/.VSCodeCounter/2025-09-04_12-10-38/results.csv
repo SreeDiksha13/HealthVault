@@ -1,0 +1,33 @@
+"filename", "language", "JSON with Comments", "PostCSS", "TypeScript", "TypeScript JSX", "JSON", "JavaScript", "XML", "Markdown", "comment", "blank", "total"
+"c:\Users\sreed\Projects\HealthVault\health_vault\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 23, 0, 14, 37
+"c:\Users\sreed\Projects\HealthVault\health_vault\components.json", "JSON", 0, 0, 0, 0, 21, 0, 0, 0, 0, 1, 22
+"c:\Users\sreed\Projects\HealthVault\health_vault\eslint.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 21, 0, 0, 0, 5, 26
+"c:\Users\sreed\Projects\HealthVault\health_vault\next.config.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 1, 3, 8
+"c:\Users\sreed\Projects\HealthVault\health_vault\package-lock.json", "JSON", 0, 0, 0, 0, 6242, 0, 0, 0, 0, 1, 6243
+"c:\Users\sreed\Projects\HealthVault\health_vault\package.json", "JSON", 0, 0, 0, 0, 33, 0, 0, 0, 0, 1, 34
+"c:\Users\sreed\Projects\HealthVault\health_vault\postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 4, 0, 0, 0, 2, 6
+"c:\Users\sreed\Projects\HealthVault\health_vault\public\file.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\public\globe.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\public\next.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\public\vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\public\window.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\doctor-dashboard\page.tsx", "TypeScript JSX", 0, 0, 0, 279, 0, 0, 0, 0, 7, 24, 310
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\globals.css", "PostCSS", 0, 117, 0, 0, 0, 0, 0, 0, 0, 6, 123
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 30, 0, 0, 0, 0, 0, 5, 35
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\login\page.tsx", "TypeScript JSX", 0, 0, 0, 75, 0, 0, 0, 0, 5, 15, 95
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\page.tsx", "TypeScript JSX", 0, 0, 0, 101, 0, 0, 0, 0, 0, 3, 104
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\patient-dashboard\page.tsx", "TypeScript JSX", 0, 0, 0, 312, 0, 0, 0, 0, 10, 22, 344
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\patient-profile\page.tsx", "TypeScript JSX", 0, 0, 0, 76, 0, 0, 0, 0, 6, 7, 89
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\patient-records\page.tsx", "TypeScript JSX", 0, 0, 0, 234, 0, 0, 0, 0, 13, 19, 266
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\app\register\page.tsx", "TypeScript JSX", 0, 0, 0, 268, 0, 0, 0, 0, 8, 21, 297
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\components\FileUploader.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\components\Footer.tsx", "TypeScript JSX", 0, 0, 0, 30, 0, 0, 0, 0, 1, 2, 33
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\components\Header.tsx", "TypeScript JSX", 0, 0, 0, 21, 0, 0, 0, 0, 0, 2, 23
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 54, 0, 0, 0, 0, 0, 6, 60
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 83, 0, 0, 0, 0, 0, 10, 93
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\lib\auth.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\lib\roleRedirect.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 2, 12
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\lib\utils.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\sreed\Projects\HealthVault\health_vault\src\styles\globals.css", "PostCSS", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 13
+"c:\Users\sreed\Projects\HealthVault\health_vault\tsconfig.json", "JSON with Comments", 27, 0, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"Total", "-", 27, 130, 19, 1563, 6296, 25, 5, 23, 51, 176, 8315
