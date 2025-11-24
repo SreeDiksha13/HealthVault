@@ -1,1 +1,13 @@
 *.pbf
+# Node
+health_vault/node_modules/
+backend/node_modules/
+
+# env files
+health_vault/.env
+backend/.env
+
+# build files
+health_vault/dist/
+health_vault/build/
+backend/dist/
